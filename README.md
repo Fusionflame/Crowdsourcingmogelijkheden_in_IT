@@ -3,7 +3,7 @@
 ## Bachelorproef repository van Andy De Ridder
 
 ### Purpose
-Deze repository zal steeds wanneer er een update is de nieuwste versie van de bachelorpreof bevatten.
+Deze repository zal steeds wanneer er een update is de nieuwste versie van de bachelorproef bevatten.
 
 ### Current state
 Deze is nu nog in zijn beginfase, opzoekingen zijn nu volop aan de gang, inhoudelijk valt er nog niets te lezen.
