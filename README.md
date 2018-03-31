@@ -12,7 +12,7 @@ Deze is nu nog in zijn beginfase, opzoekingen zijn nu volop aan de gang, inhoude
 Het volgende dat zal worden toegevoegd is de literatuurstudie, van hoe de zaken er nu voorliggen.
 
 ### Rough schedule
-* Inleiding schrijven
+* Inleiding schrijven (afgewerkt, TO DO spellingcheck _ )
 * Literatuuronderzoek al dan niet ook al woord vooraf
 * Aanpakbeschrijving met betrekking tot de uit te voeren interviews
 * Interview contents (vragen die gesteld zullen worden en ook welke bedrijven meedoen aan het intervew)
