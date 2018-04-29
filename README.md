@@ -1,4 +1,4 @@
-# Crowdsourcingmogelijkheden_in_IT
+# Crowdsourcingmogelijkheden in IT: Case Study OpenStreetMap
 
 ## Bachelorproef repository van Andy De Ridder
 
@@ -6,10 +6,10 @@
 Deze repository zal steeds wanneer er een update is de nieuwste versie van de bachelorproef bevatten.
 
 ### Current state
-Deze is nu nog in zijn beginfase, opzoekingen zijn nu volop aan de gang, inhoudelijk valt er nog niets te lezen.
+Stand van zaken is zo goed als afgerond, methodologie is nu aan de beurt.
 
 ### Next update contents
-Het volgende dat zal worden toegevoegd is de literatuurstudie, van hoe de zaken er nu voorliggen.
+Afgewerkte methodologie en conclusie
 
 ### Rough schedule
 * Inleiding schrijven (afgewerkt, TO DO spellingcheck _ )
@@ -31,7 +31,7 @@ Andy De Ridder
 Dhr. Steven Vermeulen
 
 ### Co-promotor
-Nog geen co-promotor gevonden.
+Joost Schouppe
 
 ## Contact
 ### Email
