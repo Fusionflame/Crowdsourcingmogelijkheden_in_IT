@@ -12,14 +12,13 @@ Stand van zaken is zo goed als afgerond, methodologie is nu aan de beurt.
 Afgewerkte methodologie en conclusie
 
 ### Rough schedule
-* Inleiding schrijven (afgewerkt, TO DO spellingcheck _ )
-* Literatuuronderzoek al dan niet ook al woord vooraf
-* Aanpakbeschrijving met betrekking tot de uit te voeren interviews
-* Interview contents (vragen die gesteld zullen worden en ook welke bedrijven meedoen aan het intervew)
-* Conclusies beschrijven na uitvoering interviews
+* Inleiding schrijven (afgewerkt)
+* Literatuuronderzoek al dan niet ook al voorwoord ( LO: afgewerkt)
+* Aanpakbeschrijving en uitvoering met betrekking tot de werkmethode (in progress)
+* Conclusies beschrijven na uitvoering 
 * Besluit uitschrijven
 * Samenvatting verwerken
-* Inhoudsopgave en referenties afwerken
+* Inhoudsopgave en referenties afwerken (in progress)
 * Spellingcheck 
 
 ## People
