@@ -6,20 +6,19 @@
 Deze repository zal steeds wanneer er een update is de nieuwste versie van de bachelorproef bevatten.
 
 ### Current state
-Stand van zaken is zo goed als afgerond, methodologie is nu aan de beurt.
+Laatste controles en aanpassingen.
 
 ### Next update contents
-Afgewerkte methodologie en conclusie
+Volledig afgewerkte versie.
 
 ### Rough schedule
-* Inleiding schrijven (afgewerkt)
-* Literatuuronderzoek al dan niet ook al voorwoord ( LO: afgewerkt)
-* Aanpakbeschrijving en uitvoering met betrekking tot de werkmethode (in progress)
-* Conclusies beschrijven na uitvoering 
-* Besluit uitschrijven
-* Samenvatting verwerken
-* Inhoudsopgave en referenties afwerken (in progress)
-* Spellingcheck 
+* Inleiding schrijven (X)
+* Literatuuronderzoek al dan niet ook al voorwoord (X)
+* Aanpakbeschrijving en uitvoering met betrekking tot de werkmethode (X)
+* Conclusies beschrijven na uitvoering (X)
+* Samenvatting verwerken (X)
+* Inhoudsopgave en referenties afwerken (X)
+* Spellingcheck (in progress)
 
 ## People
 
