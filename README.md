@@ -29,7 +29,7 @@ Andy De Ridder
 Dhr. Steven Vermeulen
 
 ### Co-promotor
-Joost Schouppe
+Dhr. Joost Schouppe
 
 ## Contact
 ### Email
