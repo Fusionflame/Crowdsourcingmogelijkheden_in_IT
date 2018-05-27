@@ -18,7 +18,7 @@ Volledig afgewerkte versie.
 * Conclusies beschrijven na uitvoering (X)
 * Samenvatting verwerken (X)
 * Inhoudsopgave en referenties afwerken (X)
-* Spellingcheck (in progress)
+* Spellingcheck (X)
 
 ## People
 
